@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jonathan Huamani</h1>
-<h3 align="center">A passionate fullstack developer from Peru</h3>
+<h3 align="center">A passionate Fullstack developer from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkodev&label=Profile%20views&color=0e75b6&style=flat" alt="jkodev" /> </p>
+
+- 🌱 I’m currently learning **Data Science and Ethical Hacking**
 
 - 💬 Ask me about **react, vue, angular, nestjs, django, laravel**
 
